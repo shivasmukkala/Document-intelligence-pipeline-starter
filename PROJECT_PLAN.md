@@ -1,4 +1,4 @@
-# Document Intelligence Pipeline — Implementation Plan
+# Document Intelligence Pipeline - Implementation Plan
 
 This plan is engineering-first. GitHub and documentation support the work, but the main goal is to build, test, evaluate, and explain a working document extraction pipeline.
 
