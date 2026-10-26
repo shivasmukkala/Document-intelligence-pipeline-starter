@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated outputs (keep examples explicitly if desired)
+outputs/
+tmp/
+
+# Local dataset downloads; check dataset terms before publishing
+data/raw/
+data/downloads/
+
+# Test / coverage cache
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,2 @@
+# Add dependencies as they are introduced by PROJECT_PLAN.md.
+# Keep this file limited to packages actually used by the project.
