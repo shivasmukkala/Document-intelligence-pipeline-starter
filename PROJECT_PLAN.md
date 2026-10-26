@@ -1,6 +1,6 @@
-# Document Intelligence Pipeline — Implementation Plan
+# Document Intelligence Pipeline - Implementation Plan
 
-This plan is engineering-first. GitHub and documentation support the work, but the main goal is to build, test, evaluate, and explain a working document extraction pipeline.
+Main goal is to build, test, evaluate, and explain a working document extraction pipeline.
 
 ## Working rules
 
@@ -12,9 +12,17 @@ This plan is engineering-first. GitHub and documentation support the work, but t
 - Do not upload secrets or confidential documents.
 - Record decisions and limitations, not just successful steps.
 
-At 5–7 hours per week, treat each “day” as a work session, not necessarily a calendar day. The plan may take 8–12 weeks or longer.
+At 5–7 hours per week, treat each “day” as a work session. The plan may take 8–12 weeks or longer.
 
 ---
+README.md — the project description and intended outcome.                                                             
+PROJECT_PLAN.md — the step-by-step engineering plan.                                                                       .gitignore — excludes local configuration, virtual environments, and other files that shouldn't be committed.               .env.example — a safe template for future configuration.                                                                    
+requirements.txt — ready for dependencies to be added as needed.                                                          
+docs/project-scope.md — initial scope and acceptance criteria.                                                         
+docs/dataset-notes.md — a template for investigating CUAD.                                                                 
+docs/templates/daily-log-template.md — the daily reporting template.                                                      
+docs/evidence-index.md — an index of proof to collect.                                                         
+evaluation/README.md — the evaluation approach and planned reports.
 
 ## Stage 1 — Define the problem and check the environment
 
