@@ -15,9 +15,8 @@ Main goal is to build, test, evaluate, and explain a working document extraction
 At 5–7 hours per week, treat each “day” as a work session. The plan may take 8–12 weeks or longer.
 
 ---
-README.md — the project description and intended outcome.
-PROJECT_PLAN.md — the step-by-step engineering plan.
-.gitignore — excludes local configuration, virtual environments, and other files that shouldn't be committed.
+README.md — the project description and intended outcome.                                                             
+PROJECT_PLAN.md — the step-by-step engineering plan.                                                                       .gitignore — excludes local configuration, virtual environments, and other files that shouldn't be committed.
 .env.example — a safe template for future configuration.
 requirements.txt — ready for dependencies to be added as needed.
 docs/project-scope.md — initial scope and acceptance criteria.
