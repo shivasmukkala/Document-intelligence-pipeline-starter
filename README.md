@@ -1,6 +1,5 @@
 # Document Intelligence Pipeline
 
-> **Project status:** Planning / starter scaffold  
 > **Purpose:** Build a reproducible Python pipeline that turns documents into validated, structured JSON and measures the quality of its extractions.
 
 ## 1. Project overview
@@ -140,17 +139,3 @@ This repository is a **starter scaffold**, not a completed pipeline. The code an
 | CLI / optional API | Not started |
 | Final reproducibility review | Not started |
 
-## 9. Definition of done for the first release
-
-- A new user can follow the setup instructions on a clean environment.
-- The pipeline can process a permitted sample document.
-- The output follows a documented schema.
-- Missing, malformed, and ambiguous fields are handled explicitly.
-- Automated tests run successfully.
-- Evaluation results can be reproduced from documented inputs and commands.
-- The README reports actual results and known limitations.
-- No secrets or unapproved private data are present in the public repository.
-
-## 10. Current next step
-
-Start with **Day 01 — verify the local environment and create the project workspace**. Use `PROJECT_PLAN.md` for the exact checks, commands, evidence, and documentation expected at each stage.
