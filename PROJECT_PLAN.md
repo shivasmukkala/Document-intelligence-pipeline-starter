@@ -16,13 +16,12 @@ At 5–7 hours per week, treat each “day” as a work session. The plan may ta
 
 ---
 README.md — the project description and intended outcome.                                                             
-PROJECT_PLAN.md — the step-by-step engineering plan.                                                                       .gitignore — excludes local configuration, virtual environments, and other files that shouldn't be committed.
-.env.example — a safe template for future configuration.
-requirements.txt — ready for dependencies to be added as needed.
-docs/project-scope.md — initial scope and acceptance criteria.
-docs/dataset-notes.md — a template for investigating CUAD.
-docs/templates/daily-log-template.md — the daily reporting template.
-docs/evidence-index.md — an index of proof to collect.
+PROJECT_PLAN.md — the step-by-step engineering plan.                                                                       .gitignore — excludes local configuration, virtual environments, and other files that shouldn't be committed.               .env.example — a safe template for future configuration.                                                                    
+requirements.txt — ready for dependencies to be added as needed.                                                          
+docs/project-scope.md — initial scope and acceptance criteria.                                                         
+docs/dataset-notes.md — a template for investigating CUAD.                                                                 
+docs/templates/daily-log-template.md — the daily reporting template.                                                      
+docs/evidence-index.md — an index of proof to collect.                                                         
 evaluation/README.md — the evaluation approach and planned reports.
 
 ## Stage 1 — Define the problem and check the environment
